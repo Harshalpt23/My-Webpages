@@ -29,4 +29,4 @@ A collection of static and responsive webpages created using HTML, CSS, JavaScri
 
 ## 📌 Note
 
-All projects are deployed either via GitHub Pages or `.ccbp.tech` platform. This repository serves as a centralized portfolio for showcasing frontend development work done during the learning journey.
+All projects are deployed either via GitHub Pages or `.ccbp.tech` platform. This repository serves as a centralized portfolio for showcasing frontend development work.
